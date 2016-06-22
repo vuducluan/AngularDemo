@@ -1,6 +1,6 @@
 == README
 
 * npm install -g bower
-* bower install angular angular-ui-router angular-resource bootstrap --save
+* bower install angular angular-ui-router angular-resource bootstrap - -save
 
 <tt>rake doc:app</tt>.
